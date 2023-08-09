@@ -56,8 +56,8 @@ export default function Home() {
 
   console.log("Portfolio Rendered...");
   const meta = {
-    title: "Abdellatif Anaflous - Software Engineer",
-    description: `I've been working on Software development for 5 years straight. Get in touch with me to know more.`,
+    title: "Matteo Esposito M - Software Engineer",
+    description: `I'm working as Software Engineer and pursuing a MSc in Informatics. AI and cars enthusiast. Get in touch with me to know more.`,
     image: "/titofCercle.png",
     type: "website",
   };
