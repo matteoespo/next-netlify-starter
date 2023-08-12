@@ -93,9 +93,9 @@ export default function Home() {
         {context.sharedState.finishedLoading ? <SomethingIveBuilt /> : <></>}
         {context.sharedState.finishedLoading ? <GetInTouch /> : <></>}
         {context.sharedState.finishedLoading ? (
-          <Footer githubUrl={"https://github.com/hktitof/my-website"} hideSocialsInDesktop={true} />
+          <Footer githubUrl={"https://matteoai.com"} hideSocialsInDesktop={true} />
         ) : (
-          <>jiirajoorea</>
+          <></>
         )}
         {!isProd && <ScreenSizeDetector />}
       </div>
