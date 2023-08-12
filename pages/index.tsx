@@ -93,7 +93,7 @@ export default function Home() {
         {context.sharedState.finishedLoading ? <SomethingIveBuilt /> : <></>}
         {context.sharedState.finishedLoading ? <GetInTouch /> : <></>}
         {context.sharedState.finishedLoading ? (
-          <Footer githubUrl={"https://matteoai.com"} hideSocialsInDesktop={true} />
+          <Footer Url={"https://matteoai.com"} hideSocialsInDesktop={true} />
         ) : (
           <></>
         )}

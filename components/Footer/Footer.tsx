@@ -16,7 +16,7 @@ const IconsData = [
   { href: "https://www.instagram.com/_matteo.espo_/", Icon: InstagramIcon },
 ];
 
-export default function Fotter(props: { githubUrl: string; hideSocialsInDesktop: boolean }) {
+export default function Fotter(props: { Url: string; hideSocialsInDesktop: boolean }) {
   return (
     <div className="bg-AAprimary flex flex-col justify-center items-center py-8 space-y-4">
       {/* // ? Reach me at */}
@@ -25,13 +25,13 @@ export default function Fotter(props: { githubUrl: string; hideSocialsInDesktop:
           return <ClickableIcon key={index} href={iconData.href} Icon={iconData.Icon} />;
         })}
       </div>
-      <a href={props.githubUrl} className="" target={"_blank"} rel="noreferrer">
+      <a href={props.Url} className="" target={"_blank"} rel="noreferrer">
         <div
           className="group flex flex-col font-mono justify-center items-center  text-gray-400 
     text-sm  space-y-2  "
         >
           <span className="group-hover:text-AAsecondary sm:text-sm text-xs">
-            2023&copy Matteo Esposito Marroccella
+            2023&copy; Matteo Esposito Marroccella
           </span>
 
         </div>
