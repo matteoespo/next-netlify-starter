@@ -60,7 +60,6 @@ export default function Home() {
     description: `I'm working as Software Engineer and pursuing a MSc in Informatics. AI and cars enthusiast. Get in touch with me to know more.`,
     image: "/titofCercle.png",
     type: "website",
-    footer: "2023&cop Matteo Esposito Marroccella",
   };
   const isProd = process.env.NODE_ENV === "production";
 
@@ -94,9 +93,9 @@ export default function Home() {
         {context.sharedState.finishedLoading ? <SomethingIveBuilt /> : <></>}
         {context.sharedState.finishedLoading ? <GetInTouch /> : <></>}
         {context.sharedState.finishedLoading ? (
-          <Footer  />
+          <Footer githubUrl={"https://github.com/hktitof/my-website"} hideSocialsInDesktop={true} />
         ) : (
-          <></>
+          <>jiirajoorea</>
         )}
         {!isProd && <ScreenSizeDetector />}
       </div>
