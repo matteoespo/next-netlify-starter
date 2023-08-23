@@ -9,11 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Matteo Esposito Marroccella </span>
-            from <span className="purple"> Verona, Italy, living in Munich, Germany.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+            from <span className="purple"> Verona, Italy</span>, living in <span className="purple">Munich, Germany.</span>
+            <br /> I am a first year student pursuing a MSc in Informatics
+             at Technische Universität München(TUM).
             <br />
-            Additionally, I am currently employed as a software developer at
+            Additionally, I am currently employed as a software engineer at
             ATS Europe.
             <br />
             <br />
