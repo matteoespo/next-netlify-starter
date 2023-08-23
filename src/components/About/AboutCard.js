@@ -11,10 +11,10 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Matteo Esposito Marroccella </span>
             from <span className="purple"> Verona, Italy</span>, living in <span className="purple">Munich, Germany.</span>
             <br /> I am a first year student pursuing a MSc in Informatics
-             at Technische Universität München(TUM).
+             at Technische Universität München (TUM).
             <br />
             Additionally, I am currently employed as a software engineer at
-            ATS Europe.
+            ATS Group.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
