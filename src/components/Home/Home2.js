@@ -27,27 +27,23 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are building new&nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Artificial Intelligence.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Whenever possible, I also apply my passion for Computer Vision
+              in the field of <b className="purple">Autonomous Driving</b> with the help of
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Pytorch, CommonRoad, ROS and Autoware.
                 </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
               </i>
             </p>
           </Col>
