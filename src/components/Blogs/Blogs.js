@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import chatify from "../../Assets/Projects/chatify.png";
 
 
 function Blogs() {
@@ -16,7 +15,8 @@ function Blogs() {
           Here are a few stories.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-
+          <Col>
+          </Col>
 
         </Row>
       </Container>
