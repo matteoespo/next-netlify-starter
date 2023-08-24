@@ -4,7 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 /*import logo from "../Assets/logo.png";*/
 import { Link } from "react-router-dom";
-import { ImBlog } from "react-icons/im";
+/*import { ImBlog } from "react-icons/im";*/
 import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
@@ -92,7 +92,7 @@ function NavBar() {
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
-
+            {/* 
             <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -102,7 +102,7 @@ function NavBar() {
                 <ImBlog style={{ marginBottom: "2px" }} /> Blog
               </Nav.Link>
             </Nav.Item>
-
+            */}
 
           </Nav>
         </Navbar.Collapse>
