@@ -11,6 +11,7 @@ function Type() {
           "Freelancer",
           "Django Developer",
           "AI Enthusiast",
+          "Car Enthusiast",
         ],
         autoStart: true,
         loop: true,
