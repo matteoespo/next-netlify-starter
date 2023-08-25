@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 /*import { ImBlog } from "react-icons/im";*/
 import {
   AiOutlineHome,
-  AiOutlineFundProjectionScreen,
+  //AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
 
