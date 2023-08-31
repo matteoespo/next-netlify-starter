@@ -7,7 +7,7 @@ import {
   AiFillInstagram,
   AiFillMail,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaXing } from "react-icons/fa";
 
 
 function Home2() {
@@ -89,6 +89,16 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.xing.com/profile/Matteo_EspositoMarroccella/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <FaXing />
                 </a>
               </li>
               <li className="social-icons">
