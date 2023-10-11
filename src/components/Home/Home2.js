@@ -39,7 +39,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for Cars
+              Whenever possible, I also apply my passion for CV and Cars
               in the field of <b className="purple">Autonomous Driving</b> with the help of
               <i>
                 <b className="purple">
