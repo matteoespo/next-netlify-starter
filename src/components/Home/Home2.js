@@ -47,6 +47,8 @@ function Home2() {
                   Autoware.
                 </b>
               </i>
+              <br />
+              I am currently attending a practical course in which we are working on <b className="purple">Cooperative Adaptive Cruise Control.</b> 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
