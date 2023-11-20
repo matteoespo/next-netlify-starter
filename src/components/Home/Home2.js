@@ -39,12 +39,12 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for CV and Cars
+              Whenever possible, I also apply my passion for AI and Cars
               in the field of <b className="purple">Autonomous Driving</b> with the help of
               <i>
                 <b className="purple">
                   {" "}
-                  Pytorch and CommonRoad.
+                  Autoware.
                 </b>
               </i>
             </p>
