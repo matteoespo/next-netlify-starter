@@ -25,7 +25,7 @@ function Home2() {
               <br />
               <br />I am fluent in
               <i>
-                <b className="purple"> Python, Javascript and Java. </b>
+                <b className="purple"> Python, Javascript and Django. </b>
               </i>
               <br />
               <br />
@@ -40,15 +40,10 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for AI and Cars
-              in the field of <b className="purple">Autonomous Driving</b> with the help of
-              <i>
-                <b className="purple">
-                  {" "}
-                  Autoware.
-                </b>
-              </i>
+              in the field of <b className="purple">Autonomous Driving.</b>
+
               <br /><br />
-              I am currently attending a practical course in which we are working on <b className="purple">Cooperative Adaptive Cruise Control.</b> 
+              I attended a practical course in which we worked on <b className="purple">Cooperative Adaptive Cruise Control.</b> 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
