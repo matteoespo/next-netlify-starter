@@ -10,10 +10,9 @@ import {
   DiDjango
 } from "react-icons/di";
 import {
-  SiFirebase,
   SiPostgresql,
-  SiPytorch,
-} from "react-icons/si";
+
+} 
 
 function Techstack() {
   return (
