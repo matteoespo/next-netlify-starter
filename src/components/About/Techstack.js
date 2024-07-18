@@ -8,10 +8,6 @@ import {
   DiJava,
   DiDjango
 } from "react-icons/di";
-import {
-  SiPostgresql,
-
-} from "react-icons/si";
 
 function Techstack() {
   return (
