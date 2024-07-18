@@ -7,7 +7,7 @@ import {
   SiDocker,
   SiWindows,
   
-} 
+} from "react-icons/si";
 
 function Toolstack() {
   return (
