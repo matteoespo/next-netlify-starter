@@ -11,7 +11,7 @@ import {
 import {
   SiPostgresql,
 
-} 
+} from "react-icons/si";
 
 function Techstack() {
   return (
