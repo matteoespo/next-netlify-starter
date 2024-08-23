@@ -14,7 +14,7 @@ function AboutCard() {
              at Technische Universität München (TUM).
             <br />
             Additionally, I am currently employed as a Software Engineer at
-            ATS Group.
+            Siemens AG.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
