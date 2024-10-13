@@ -13,7 +13,7 @@ function AboutCard() {
             <br /> I am a second year Master Student in Informatics
              at Technische Universität München (TUM).
             <br />
-            Additionally, I am currently employed as a Software Engineer at
+            Additionally, I am currently employed as a Working Student Developer at
             Siemens AG.
             <br />
             <br />
