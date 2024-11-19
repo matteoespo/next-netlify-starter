@@ -2,6 +2,7 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   DiJavascript1,
+  DIVuejs,
   DiMysql,
   DiPython,
   DiGit,
@@ -17,6 +18,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiDjango />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiVuejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
