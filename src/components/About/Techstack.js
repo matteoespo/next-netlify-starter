@@ -10,6 +10,8 @@ import {
   DiDjango
 } from "react-icons/di";
 
+import { SiVuedotjs } from "react-icons/si";
+
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
@@ -20,7 +22,7 @@ function Techstack() {
         <DiDjango />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiVuejs />
+        <SiVuedotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
